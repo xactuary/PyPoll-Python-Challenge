@@ -46,6 +46,8 @@ The results of this loop code shows the total votes cast as follows:
  >Finally a new variable to track votes by county is created and increased each time the county name shows up in the data file.
  The percentage of total votes for each county is now easy to calculate by dividing the total of the county by the overall total. 
  
+ ![](
+ 
  
  
  
