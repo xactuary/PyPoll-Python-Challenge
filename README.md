@@ -35,7 +35,10 @@ The results of this loop code shows the total votes cast as follows:
 
 ![](https://github.com/xactuary/PyPoll-Python-Challenge/blob/master/Resources/total%20votes.PNG)
 
+* BREAKDOWN OF VOTES BY COUNTY AND PERCENTAGE BY COUNTY
+>In order to calculate the breakdown of votes by county, a dictionary and list were created to keep county names and accumulated votes by county
 
+!
 
 
 
