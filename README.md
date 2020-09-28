@@ -20,7 +20,7 @@ the following information:
 4.  What is the percentage of votes each candidate won
 5.  Who is the winner of the election by the popular vote
 
-After reviewing this information to the election committee, the committee has requested additional information with regards to the individual county showings.  The challenge is to enhance the starter code which developed the audit information to also include the additional request.    
+After reviewing this information, the election committee has requested additional information with regards to the individual county showings.  The challenge is to enhance the starter code which developed the audit information to also include the additional request.    
 
 ### Resources provided
 - Data Source:  election_results.csv
@@ -28,7 +28,7 @@ After reviewing this information to the election committee, the committee has re
 
 ## Summary
 
-###Election-Audit Results
+### Election-Audit Results
 * THE NUMBER OF TOTAL VOTES CAST IN THIS CONGRESSIONAL ELECTION
  * In order to calculate the total votes case in the election, we used a 
  for loop coupled with a counter variable that increases each time the for loop goes through the rows of data.  
