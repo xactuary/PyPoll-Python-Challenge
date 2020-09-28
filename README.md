@@ -30,9 +30,10 @@ After reviewing this information, the election committee has requested additiona
 
 ### Election-Audit Results
 * THE NUMBER OF TOTAL VOTES CAST IN THIS CONGRESSIONAL ELECTION
->In order to calculate the total votes case in the election, we used a `for` loop coupled with a `counter variable` that increases each time the `for` loop goes through the rows of data.  
+>In order to calculate the total votes cast in the election, we used a `for` loop coupled with a `counter variable` that increases each time the `for` loop goes through the rows of data. 
+The results of this loop code shows the total votes cast as follows:
 
-![The total number of votes cast is: ](https://github.com/xactuary/PyPoll-Python-Challenge/blob/master/Resources/total%20votes.PNG)
+![](https://github.com/xactuary/PyPoll-Python-Challenge/blob/master/Resources/total%20votes.PNG)
 
 
 
