@@ -7,10 +7,12 @@ for them in regards to the election analysis.  The board committee would now als
 2.  the percentage of votes from each county out of the total count
 3.  The county with the highest turn out
 
+The challenge is to use Python on the provided Election_results.csv file to calculate the desired statitics and print out the results to the terminal as well as in a text file that can be provided to the election committee.
+
 ### Background
-A Colorado Board of Elections employees, Seth and Tom, have asked for an analysis of election results in 
-conjunction with an audit that is being done of a recent local congressional election.  The audit 
-is looking to find out the following information:
+Colorado Board of Elections employees, Seth and Tom, have asked for an analysis of election results in 
+conjunction with an audit that is being done of a recent local congressional election.  The audit originally requested
+the following information:
 
 1.  The Total number of Votes cast
 2.  A Complete list of candidates who received votes
@@ -18,10 +20,21 @@ is looking to find out the following information:
 4.  What is the percentage of votes each candidate won
 5.  Who is the winner of the election by the popular vote
 
- 
+After reviewing this information to the election committee, the committee has requested additional information with regards to the individual county showings.  The challenge is to enhance the starter code which developed the audit information to also include the additional request.    
 
 ### Resources provided
 - Data Source:  election_results.csv
 - Software:  Python 3.6.1, Visual Studio code
 
 ## Summary
+
+###Election-Audit Results
+* THE NUMBER OF TOTAL VOTES CAST IN THIS CONGRESSIONAL ELECTION
+ * In order to calculate the total votes case in the election, we used a 
+ for loop coupled with a counter variable that increases each time the for loop goes through the rows of data.  
+
+
+
+
+
+
