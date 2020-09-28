@@ -38,10 +38,14 @@ The results of this loop code shows the total votes cast as follows:
 * BREAKDOWN OF VOTES BY COUNTY AND PERCENTAGE BY COUNTY
 >In order to calculate the breakdown of votes by county, a dictionary and list were created to keep county names and accumulated votes by county
 
-![]https://github.com/xactuary/PyPoll-Python-Challenge/blob/master/Resources/county%20code%201.PNG
- >Next we loop through all the records to find the names of the counties that are not on the list and append the new ones to the list
+![](https://github.com/xactuary/PyPoll-Python-Challenge/blob/master/Resources/county%20code%201.PNG)
+ >Next while still in the for loop looking at all the records, when a new county name is encountered it is `append`ed the list
  
- ![]
+ ![](https://github.com/xactuary/PyPoll-Python-Challenge/blob/master/Resources/county%20code%202.PNG)
+ 
+ 
+ 
+ 
 
 
 
