@@ -49,9 +49,12 @@ The results of this loop code shows the total votes cast as follows:
  ![](https://github.com/xactuary/PyPoll-Python-Challenge/blob/master/Resources/county%20percentage.PNG)
  
  * THE COUNTY WITH THE LARGEST VOTES
-  >To identify the winning county, a comparison variable is used to check and see if the accumulated amount of votes being accumulated in the dictionary is bigger than the prior winning county count and if so, replace the winning county count until the whole dataset has been processed.
+  >To identify the winning county, an `if statement` is used with a comparison `variable` within the `for` loop to check and see if the accumulated amount of votes in the `dictionary` is bigger than the prior winning county count and if so, replace the winning county count until the whole dataset has been processed.  This comparison variable is initiated to 0 at the beginning of the code. 
   
-  ![](
+  ![](https://github.com/xactuary/PyPoll-Python-Challenge/blob/master/Resources/winning%20county.PNG)
+  
+  ![The result of this program is: }(
+  
  
  
  
