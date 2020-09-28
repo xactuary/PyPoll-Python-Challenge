@@ -43,7 +43,9 @@ The results of this loop code shows the total votes cast as follows:
  
  ![](https://github.com/xactuary/PyPoll-Python-Challenge/blob/master/Resources/county%20code%202.PNG)
  
- >Finally a new variable to track votes by county is created and increased each time the county name shows up
+ >Finally a new variable to track votes by county is created and increased each time the county name shows up in the data file.
+ The percentage of total votes for each county is now easy to calculate by dividing the total of the county by the overall total. 
+ 
  
  
  
