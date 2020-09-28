@@ -14,8 +14,6 @@ total_votes = 0
 candidate_options = []
 candidate_votes = {}
 
-
-
 # 1: Create a county list and county votes dictionary.
 county_list = []
 county_votes = {}
@@ -30,6 +28,7 @@ winning_percentage = 0
 
 winning_county = ""
 winning_countycount = 0
+winning_ctypct = 0
 
 
 # Read the csv and convert it into a list of dictionaries
@@ -103,12 +102,24 @@ with open(file_to_save, "w") as txt_file:
         print(f"{county_name}:{ctyvote_percentage:.1f}%({ctyvotes:,})\n")
 
          # 6e: Save the county votes to a text file.
-        
-         # 6f: Write a decision statement to determine the winning county and get its vote count.
 
+         # 6f: Write a decision statement to determine the winning county and get its vote count.
+        if (ctyvotes>winning_countycount) and (ctyvote_percentage > winning_ctypct):
+            winning_countycount=ctyvotes
+            winning_county=county_name
+            winning_ctypct=ctyvote_percentage
 
     # 7: Print the county with the largest turnout to the terminal.
-
+    winning_county_summary = (
+        f"-------------------------\n"
+        f"County Winner: {winning_county}\n"
+        f"Winning county vote count: {winning_countycount:,}\n"
+        f"Winning county percentage: {winning_ctypct:.1f}%\n"
+        f"-------------------------\n")
+    print(winning_county_summary)
+    #print(winning_countycount)
+    #print(winning_county)
+    #print(winning_ctypct)
 
     # 8: Save the county with the largest turnout to a text file.
 
