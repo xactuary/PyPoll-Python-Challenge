@@ -1,6 +1,6 @@
 # Election Analysis
 
-##Project Overview
+## Project Overview
 A Colorado Board of Elections employee has asked for an analysis of election results in 
 conjunction with an audit that is being done of a recent local congressional election.  The audit 
 is looking to find out the following information:
