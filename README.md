@@ -68,6 +68,10 @@ The results of this loop code shows the total votes cast as follows:
   
   ![](https://github.com/xactuary/PyPoll-Python-Challenge/blob/master/Resources/winner%20code.PNG)
   
+ Finally our winner and statistics are as follows:
+ 
+ ![](
+  
   
   
   
