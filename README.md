@@ -78,6 +78,10 @@ The script provided for this audit is able to calculate the total votes, votes b
 * The votes by candidate by county - the election commission could then see which candidates won which counties and not just the overall winner
 * The script could also calculate the candidate winning the most counties which may be different than the overall popular vote
 
+The code for this analysis can be found ![here:](https://github.com/xactuary/PyPoll-Python-Challenge/blob/master/PyPoll_Challenge.py)
+
+
+
 
  
  
