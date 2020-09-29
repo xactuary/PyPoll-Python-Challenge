@@ -62,7 +62,7 @@ The results of this loop code shows the total votes cast as follows:
   * THE CANDIDATE VOTES AND PERCENTAGE
   > Similar logic is used to determine the votes for each candidate and the percentage of the total votes each has received as used in the county analysis.  The results of the candidate vote count are as follows:
   
-  ![](https://github.com/xactuary/PyPoll-Python-Challenge/blob/master/Resources/winner.PNG)
+  ![](
   
   * Given the prior calculations, it is a simple matter to determine the winner of the election.  Similar logic to finding the county with the most votes is used to determine the candidate with the most votes as shown in the code below:
   
