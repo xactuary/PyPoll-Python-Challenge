@@ -80,6 +80,8 @@ The script provided for this audit is able to calculate the total votes, votes b
 
 The code for this analysis can be found ![here:](https://github.com/xactuary/PyPoll-Python-Challenge/blob/master/PyPoll_Challenge.py)
 
+A text file of the results of the analysis can be found here
+
 
 
 
