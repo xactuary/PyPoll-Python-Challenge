@@ -72,7 +72,7 @@ The results of this loop code shows the total votes cast as follows:
  
  ![](https://github.com/xactuary/PyPoll-Python-Challenge/blob/master/Resources/winner.PNG)
  
- ##ELECTION AUDIT SUMMARY
+ ## ELECTION AUDIT SUMMARY
  
  
   
