@@ -26,7 +26,7 @@ After reviewing this information, the election committee has requested additiona
 - Data Source:  election_results.csv  To see data file click ![Here](https://github.com/xactuary/PyPoll-Python-Challenge/blob/master/Resources/election_results.csv)
 - Software:  Python 3.6.1, Visual Studio code
 
-### Election-Audit Results
+## Election-Audit Results
 * THE NUMBER OF TOTAL VOTES CAST IN THIS CONGRESSIONAL ELECTION
 >In order to calculate the total votes cast in the election, we used a `for` loop coupled with a `counter variable` that increases each time the `for` loop goes through the rows of data. 
 The results of this loop code shows the total votes cast as follows:
@@ -64,18 +64,19 @@ The results of this loop code shows the total votes cast as follows:
   
   ![](https://github.com/xactuary/PyPoll-Python-Challenge/blob/master/Resources/candidate%20votes.PNG)
   
-  * Given the prior calculations, it is a simple matter to determine the winner of the election.  Similar logic to finding the county with the most votes is used to determine the candidate with the most votes as shown in the code below:
+  * THE WINNING CANDIDATE
+>Given the prior calculations, it is a simple matter to determine the winner of the election.  Similar logic to finding the county with the most votes is used to determine the candidate with the most votes as shown in the code below:
   
   ![](https://github.com/xactuary/PyPoll-Python-Challenge/blob/master/Resources/winner%20code.PNG)
   
- Finally our winner and statistics are as follows:
+ >Finally our winner and statistics are as follows:
  
  ![](https://github.com/xactuary/PyPoll-Python-Challenge/blob/master/Resources/winner.PNG)
  
  ## ELECTION AUDIT SUMMARY
  
 The script provided for this audit is able to calculate the total votes, votes by county and candidate and the percentage of total votes these account for.  The script can be used on any file of undetermined length with similar data elements.  With some modification, the script could also produce statistics of interest such as:
-* The votes by candidate by county - the election commission could then see which candidates won which counties and not just the overall winner
+* The votes by candidate by county - the election commission could then see which candidate won in each county and not just the overall winner
 * The script could also calculate the candidate winning the most counties which may be different than the overall popular vote
 
 The code for this analysis can be found ![here:](https://github.com/xactuary/PyPoll-Python-Challenge/blob/master/PyPoll_Challenge.py)
