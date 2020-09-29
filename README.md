@@ -47,13 +47,16 @@ The results of this loop code shows the total votes cast as follows:
  The percentage of total votes for each county is now easy to calculate by dividing the total of the county by the overall total. 
  
  ![](https://github.com/xactuary/PyPoll-Python-Challenge/blob/master/Resources/county%20percentage.PNG)
+ ![The results of this analysis are as follows: ](
  
  * THE COUNTY WITH THE LARGEST VOTES
   >To identify the winning county, an `if statement` is used with a comparison `variable` within the `for` loop to check and see if the accumulated amount of votes in the `dictionary` is bigger than the prior winning county count and if so, replace the winning county count until the whole dataset has been processed.  This comparison variable is initiated to 0 at the beginning of the code. 
   
   ![](https://github.com/xactuary/PyPoll-Python-Challenge/blob/master/Resources/winning%20county.PNG)
   
-  ![The result of this program is: }(
+  ![The result of this program gives us the county with the largest turnout: ](https://github.com/xactuary/PyPoll-Python-Challenge/blob/master/Resources/largest%20county.PNG)
+  
+  
   
  
  
