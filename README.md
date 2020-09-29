@@ -23,7 +23,7 @@ the following information:
 After reviewing this information, the election committee has requested additional information with regards to the individual county showings.  The challenge is to enhance the starter code used to develop the initial audit information to also include the additional requests.    
 
 #### Resources provided
-- Data Source:  election_results.csv
+- Data Source:  election_results.csv  To see data file click ![Here](
 - Software:  Python 3.6.1, Visual Studio code
 
 ### Election-Audit Results
