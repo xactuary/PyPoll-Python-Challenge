@@ -124,7 +124,6 @@ with open(file_to_save, "w") as txt_file:
     
 
     # 8: Save the county with the largest turnout to a text file.
-#with open(file_to_save, "w") as txt_file:
     turnout = (
         f"\n"
         f"-------------------------\n"
