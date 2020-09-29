@@ -64,9 +64,10 @@ The results of this loop code shows the total votes cast as follows:
   
   ![](https://github.com/xactuary/PyPoll-Python-Challenge/blob/master/Resources/winner.PNG)
   
-  * Given the prior calculations, it is a simple matter to determine the winner of the election.  Similar logic to finding the county with the most votes is used to determie the candidate with the most votes as shown in the code below:
+  * Given the prior calculations, it is a simple matter to determine the winner of the election.  Similar logic to finding the county with the most votes is used to determine the candidate with the most votes as shown in the code below:
   
-  ![](
+  ![](https://github.com/xactuary/PyPoll-Python-Challenge/blob/master/Resources/winner%20code.PNG)
+  
   
   
   
