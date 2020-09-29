@@ -74,6 +74,12 @@ The results of this loop code shows the total votes cast as follows:
  
  ## ELECTION AUDIT SUMMARY
  
+The script provided for this audit is able to calculate the total votes, votes by county and candidate and the percentage of total votes these account for.  The script can be used on any file of undetermined length with similar data elements.  With some modification, the script could also produce statistics of interest such as:
+* The votes by candidate by county - the election commission could then see which candidates won which counties and not just the overall winner
+* The script could also calculate the candidate winning the most counties which may be different than the overall popular vote
+
+
+ 
  
   
   
