@@ -4,7 +4,7 @@
 The Colorado election committee has requested additional information on top of the recent analysis completed 
 for them in regards to the election audit.  The board committee would now also like to determine the following:
 1.  The voter turnout for each county
-2.  the percentage of votes from each county out of the total count
+2.  The percentage of votes from each county out of the total count
 3.  The county with the highest turn out
 
 The challenge is to use Python on the provided Election_results.csv file to calculate the desired statistics and print out the results to the terminal as well as in a text file that can be provided to the election committee.
@@ -25,8 +25,6 @@ After reviewing this information, the election committee has requested additiona
 #### Resources provided
 - Data Source:  election_results.csv
 - Software:  Python 3.6.1, Visual Studio code
-
-## Summary
 
 ### Election-Audit Results
 * THE NUMBER OF TOTAL VOTES CAST IN THIS CONGRESSIONAL ELECTION
@@ -73,6 +71,9 @@ The results of this loop code shows the total votes cast as follows:
  Finally our winner and statistics are as follows:
  
  ![](https://github.com/xactuary/PyPoll-Python-Challenge/blob/master/Resources/winner.PNG)
+ 
+ ##ELECTION AUDIT SUMMARY
+ 
  
   
   
