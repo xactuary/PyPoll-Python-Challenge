@@ -59,6 +59,11 @@ The results of this loop code shows the total votes cast as follows:
   
   ![](https://github.com/xactuary/PyPoll-Python-Challenge/blob/master/Resources/largest%20county.PNG)
   
+  * THE CANDIDATE VOTES AND PERCENTAGE
+  > Similar logic is used to determine the votes for each candidate and the percentage of the total votes each has received as used in the county analysis.  The results of the candidate vote count are as follows:
+  
+  ![]
+  
   
   
  
